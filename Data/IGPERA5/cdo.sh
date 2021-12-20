@@ -1,0 +1,11 @@
+[0m[00mERA5IGP_1000_qz_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_1000_uv_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_500_z_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_700_w_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_850_tqz_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_850_uv_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_d2m_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_mslp_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_t2m_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_u10_3hourly_NovDecJan.nc[0m
+[00mERA5IGP_v10_3hourly_NovDecJan.nc[0m
